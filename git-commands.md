@@ -50,7 +50,6 @@ git reset --hard HEAD~1
 git push origin main --force
 ```
 
-⚠️ **Warning**: Using `--force` can rewrite history and should be used with caution, especially on shared repositories.
 
 ## Best Practices
 
